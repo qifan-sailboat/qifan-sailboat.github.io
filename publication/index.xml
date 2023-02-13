@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>publication | Qifan Zhang | 张起帆</title>
+    <link>https://qifan-sailboat.github.io/publication/</link>
+      <atom:link href="https://qifan-sailboat.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>publication</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://qifan-sailboat.github.io/media/icon_hu06c5472d9236cf129c82728409dffb3a_98811_512x512_fill_lanczos_center_3.png</url>
+      <title>publication</title>
+      <link>https://qifan-sailboat.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>The Maginot Line: Attacking the Boundary of DNS Caching Protection</title>
+      <link>https://qifan-sailboat.github.io/publication/usenix23/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://qifan-sailboat.github.io/publication/usenix23/</guid>
+      <description>&lt;h2&gt;Overview&lt;/h2&gt;
+In this paper, we report &lt;b&gt;MaginotDNS&lt;/b&gt;, a powerful cache poisoning attack against DNS servers that simultaneously act as recursive resolvers and forwarders (termed as &lt;i&gt;CDNS&lt;/i&gt;).
+&lt;br&gt;&lt;/br&gt;
+MaginotDNS: &lt;a href=&#34;https://maginotdns.net/&#34;&gt;https://maginotdns.net/&lt;/a&gt;
+&lt;h2&gt;CVEs (9 in total)&lt;/h2&gt;
+&lt;li&gt;Knot Resolver: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30250&#34;&gt;CVE-2022-30250&lt;/a&gt;, &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30251&#34;&gt;CVE-2022-30251&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;PowerDNS Recursor: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30252&#34;&gt;CVE-2022-30252&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Simple DNS Plus: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30254&#34;&gt;CVE-2022-30254&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;MaraDNS: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30256&#34;&gt;CVE-2022-30256&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Technitium: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30257&#34;&gt;CVE-2022-30257&lt;/a&gt;, &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30258&#34;&gt;CVE-2022-30258&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Unbound: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30698&#34;&gt;CVE-2022-30698&lt;/a&gt;, &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30699&#34;&gt;CVE-2022-30699&lt;/a&gt;&lt;/li&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ghost Domain Reloaded: Vulnerable Links in Domain Name Delegation and Revocation</title>
+      <link>https://qifan-sailboat.github.io/publication/ndss23/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://qifan-sailboat.github.io/publication/ndss23/</guid>
+      <description>&lt;h2&gt;Overview&lt;/h2&gt;
+In this paper, we propose &lt;b&gt;Phoenix Domain&lt;/b&gt;, a general and novel attack that allows adversaries to maintain the revoked malicious domain continuously resolvable at scale, which enables an old, mitigated attack, Ghost Domain. 
+&lt;br&gt;&lt;/br&gt;
+Phoenix Domain: &lt;a href=&#34;https://phoenixdomain.net/&#34;&gt;https://phoenixdomain.net/&lt;/a&gt;
+&lt;h2&gt;CVEs (9 in total)&lt;/h2&gt;
+&lt;li&gt;Knot Resolver: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30250&#34;&gt;CVE-2022-30250&lt;/a&gt;, &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30251&#34;&gt;CVE-2022-30251&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;PowerDNS Recursor: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30252&#34;&gt;CVE-2022-30252&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Simple DNS Plus: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30254&#34;&gt;CVE-2022-30254&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;MaraDNS: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30256&#34;&gt;CVE-2022-30256&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Technitium: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30257&#34;&gt;CVE-2022-30257&lt;/a&gt;, &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30258&#34;&gt;CVE-2022-30258&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Unbound: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30698&#34;&gt;CVE-2022-30698&lt;/a&gt;, &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30699&#34;&gt;CVE-2022-30699&lt;/a&gt;&lt;/li&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Play the Imitation Game: Model Extraction Attack against Autonomous Driving Localization</title>
+      <link>https://qifan-sailboat.github.io/publication/acsac22/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://qifan-sailboat.github.io/publication/acsac22/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Comprehensive Study of DNS Operational Issues by Mining DNS Forums</title>
+      <link>https://qifan-sailboat.github.io/publication/ieee-access-22/</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://qifan-sailboat.github.io/publication/ieee-access-22/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
