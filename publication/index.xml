@@ -5,12 +5,50 @@
     <link>https://qifan-sailboat.github.io/publication/</link>
       <atom:link href="https://qifan-sailboat.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>publication</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://qifan-sailboat.github.io/media/icon_hu06c5472d9236cf129c82728409dffb3a_98811_512x512_fill_lanczos_center_3.png</url>
       <title>publication</title>
       <link>https://qifan-sailboat.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>ResolverFuzz: Automated Discovery of DNS Resolver Vulnerabilities with Query-Response Fuzzing</title>
+      <link>https://qifan-sailboat.github.io/publication/usenix24a/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://qifan-sailboat.github.io/publication/usenix24a/</guid>
+      <description>&lt;h2&gt;Overview&lt;/h2&gt;
+More details coming soon ...
+&lt;br&gt;&lt;/br&gt;
+&lt;!-- ResolverFuzz (coming soon): &lt;a href=&#34;https://resolverfuzz.dns-debug.com/&#34;&gt;https://resolverfuzz.dns-debug.com/&lt;/a&gt; --&gt;
+&lt;h2&gt;CVEs (15 in total)&lt;/h2&gt;
+&lt;li&gt;&lt;a href=&#34;https://kb.isc.org/docs/&#34;&gt;BIND&lt;/a&gt;: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-25220&#34;&gt;CVE-2021-25220&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://knot-resolver.readthedocs.io/en/stable/modules-policy.html#forwarding&#34;&gt;Knot Resolver&lt;/a&gt;: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30250&#34;&gt;CVE-2022-30250&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-32983&#34;&gt;CVE-2022-32983&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-26250&#34;&gt;CVE-2023-26250&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-26249&#34;&gt;CVE-2023-26249&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nlnetlabs.nl/projects/unbound/security-advisories/&#34;&gt;Unbound&lt;/a&gt;: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30698&#34;&gt;CVE-2022-30698&lt;/a&gt;
+&lt;li&gt;PowerDNS Recursor: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30252&#34;&gt;CVE-2022-30252&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-26251&#34;&gt;CVE-2023-26251&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-26252&#34;&gt;CVE-2023-26252&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-24712&#34;&gt;CVE-2023-24712&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://maradns.samiam.org/security.html&#34;&gt;MaraDNS&lt;/a&gt;: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30256&#34;&gt;CVE-2022-30256&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-22905&#34;&gt;CVE-2023-22905&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/TechnitiumSoftware/DnsServer/blob/master/CHANGELOG.md&#34;&gt;Technitium&lt;/a&gt;: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-43105&#34;&gt;CVE-2021-43105&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30257&#34;&gt;CVE-2022-30257&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-48256&#34;&gt;CVE-2022-48256&lt;/a&gt;&lt;/li&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>The Maginot Line: Attacking the Boundary of DNS Caching Protection</title>
@@ -29,6 +67,33 @@ MaginotDNS: &lt;a href=&#34;https://maginotdns.net/&#34;&gt;https://maginotdns.n
 &lt;li&gt;Technitium: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30257&#34;&gt;CVE-2022-30257&lt;/a&gt;, &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30258&#34;&gt;CVE-2022-30258&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Unbound: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30698&#34;&gt;CVE-2022-30698&lt;/a&gt;, &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30699&#34;&gt;CVE-2022-30699&lt;/a&gt;&lt;/li&gt;
 &lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FedMLSecurity: A Benchmark for Attacks and Defenses in Federated Learning and LLMs</title>
+      <link>https://qifan-sailboat.github.io/publication/fedmlsecurity/</link>
+      <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://qifan-sailboat.github.io/publication/fedmlsecurity/</guid>
+      <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
