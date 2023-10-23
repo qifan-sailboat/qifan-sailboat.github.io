@@ -276,12 +276,12 @@
 
   
 
-<meta name="description" content="In this paper, we propose __Phoenix Domain__, a general and novel attack that allows adversaries to maintain the revoked malicious domain continuously resolvable at scale, which enables an old, mitigated attack, Ghost Domain. Phoenix Domain has two variations and affects all mainstream DNS software and public DNS resolvers overall because it does not violate any DNS specifications and best security practices. The attack is made possible through systematically “reverse engineer” the cache operations of 8 DNS implementations, and new attack surfaces are revealed in the domain name delegation processes. We select 41 well-known public DNS resolvers and prove that all surveyed DNS services are vulnerable to Phoenix Domain, including Google Public DNS and Cloudflare DNS. Extensive measurement studies are performed with 210k stable and distributed DNS recursive resolvers, and results show that even after one month from domain name revocation and cache expiration, more than 25% of recursive resolvers can still resolve it. The proposed attack provides an opportunity for adversaries to evade the security practices of malicious domain take-down. We have reported discovered vulnerabilities to all affected vendors and suggested 6 types of mitigation approaches to them. Until now, 7 DNS software providers and 15 resolver vendors, including BIND, Unbound, Google, and Cloudflare, have confirmed the vulnerabilities, and some of them are implementing and publishing mitigation patches according to our suggestions. In addition, 9 CVE numbers have been assigned. The study calls for standardization to address the issue of how to revoke domain names securely and maintain cache consistency." />
+<meta name="description" content="Federated learning (FL) systems are vulnerable to malicious clients that submit poisoned local models to achieve their adversarial goals, such as preventing the convergence of the global model or inducing the global model to misclassify some data. Many existing defense mechanisms are impractical in real-world FL systems, as they require prior knowledge of the number of malicious clients or rely on re-weighting or modifying submissions. This is because adversaries typically do not announce their intentions before attacking, and re-weighting might change aggregation results even in the absence of attacks. To address these challenges in real FL systems, this paper introduces a cutting-edge anomaly detection approach with the following features: i) Detecting the occurrence of attacks and performing defense operations only when attacks happen; ii) Upon the occurrence of an attack, further detecting the malicious client models and eliminating them without harming the benign ones; iii) Ensuring honest execution of defense mechanisms at the server by leveraging a zero-knowledge proof mechanism. We validate the superior performance of the proposed approach with extensive experiments. " />
 
 
 
-<link rel="alternate" hreflang="en-us" href="https://qifan-sailboat.github.io/publication/ndss23/" />
-<link rel="canonical" href="https://qifan-sailboat.github.io/publication/ndss23/" />
+<link rel="alternate" hreflang="en-us" href="https://qifan-sailboat.github.io/publication/anomaly_detection/" />
+<link rel="canonical" href="https://qifan-sailboat.github.io/publication/anomaly_detection/" />
 
 
 
@@ -314,20 +314,20 @@
 
   <meta property="twitter:site" content="@wowchemy" />
   <meta property="twitter:creator" content="@wowchemy" />
-<meta property="twitter:image" content="https://qifan-sailboat.github.io/publication/ndss23/featured.png" />
+<meta property="twitter:image" content="https://qifan-sailboat.github.io/publication/anomaly_detection/featured.png" />
 <meta property="og:site_name" content="Qifan Zhang | 张起帆" />
-<meta property="og:url" content="https://qifan-sailboat.github.io/publication/ndss23/" />
-<meta property="og:title" content="Ghost Domain Reloaded: Vulnerable Links in Domain Name Delegation and Revocation | Qifan Zhang | 张起帆" />
-<meta property="og:description" content="In this paper, we propose __Phoenix Domain__, a general and novel attack that allows adversaries to maintain the revoked malicious domain continuously resolvable at scale, which enables an old, mitigated attack, Ghost Domain. Phoenix Domain has two variations and affects all mainstream DNS software and public DNS resolvers overall because it does not violate any DNS specifications and best security practices. The attack is made possible through systematically “reverse engineer” the cache operations of 8 DNS implementations, and new attack surfaces are revealed in the domain name delegation processes. We select 41 well-known public DNS resolvers and prove that all surveyed DNS services are vulnerable to Phoenix Domain, including Google Public DNS and Cloudflare DNS. Extensive measurement studies are performed with 210k stable and distributed DNS recursive resolvers, and results show that even after one month from domain name revocation and cache expiration, more than 25% of recursive resolvers can still resolve it. The proposed attack provides an opportunity for adversaries to evade the security practices of malicious domain take-down. We have reported discovered vulnerabilities to all affected vendors and suggested 6 types of mitigation approaches to them. Until now, 7 DNS software providers and 15 resolver vendors, including BIND, Unbound, Google, and Cloudflare, have confirmed the vulnerabilities, and some of them are implementing and publishing mitigation patches according to our suggestions. In addition, 9 CVE numbers have been assigned. The study calls for standardization to address the issue of how to revoke domain names securely and maintain cache consistency." /><meta property="og:image" content="https://qifan-sailboat.github.io/publication/ndss23/featured.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:url" content="https://qifan-sailboat.github.io/publication/anomaly_detection/" />
+<meta property="og:title" content="Kick Bad Guys Out! Zero-Knowledge-Proof-Based Anomaly Detection in Federated Learning | Qifan Zhang | 张起帆" />
+<meta property="og:description" content="Federated learning (FL) systems are vulnerable to malicious clients that submit poisoned local models to achieve their adversarial goals, such as preventing the convergence of the global model or inducing the global model to misclassify some data. Many existing defense mechanisms are impractical in real-world FL systems, as they require prior knowledge of the number of malicious clients or rely on re-weighting or modifying submissions. This is because adversaries typically do not announce their intentions before attacking, and re-weighting might change aggregation results even in the absence of attacks. To address these challenges in real FL systems, this paper introduces a cutting-edge anomaly detection approach with the following features: i) Detecting the occurrence of attacks and performing defense operations only when attacks happen; ii) Upon the occurrence of an attack, further detecting the malicious client models and eliminating them without harming the benign ones; iii) Ensuring honest execution of defense mechanisms at the server by leveraging a zero-knowledge proof mechanism. We validate the superior performance of the proposed approach with extensive experiments. " /><meta property="og:image" content="https://qifan-sailboat.github.io/publication/anomaly_detection/featured.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
       property="article:published_time"
-      content="2017-01-01T00:00:00&#43;00:00"
+      content="2023-09-28T00:00:00&#43;00:00"
     />
   
   
-    <meta property="article:modified_time" content="2023-02-27T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2023-09-28T00:00:00&#43;00:00">
   
 
 
@@ -351,20 +351,20 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://qifan-sailboat.github.io/publication/ndss23/"
+    "@id": "https://qifan-sailboat.github.io/publication/anomaly_detection/"
   },
-  "headline": "Ghost Domain Reloaded: Vulnerable Links in Domain Name Delegation and Revocation",
+  "headline": "Kick Bad Guys Out! Zero-Knowledge-Proof-Based Anomaly Detection in Federated Learning",
   
   "image": [
-    "https://qifan-sailboat.github.io/publication/ndss23/featured.png"
+    "https://qifan-sailboat.github.io/publication/anomaly_detection/featured.png"
   ],
   
-  "datePublished": "2017-01-01T00:00:00Z",
-  "dateModified": "2023-02-27T00:00:00Z",
+  "datePublished": "2023-09-28T00:00:00Z",
+  "dateModified": "2023-09-28T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Xiang Li"
+    "name": "Shanshan Han"
   },
   
   "publisher": {
@@ -375,7 +375,7 @@
       "url": "https://qifan-sailboat.github.io/media/icon_hu06c5472d9236cf129c82728409dffb3a_98811_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "In this paper, we propose __Phoenix Domain__, a general and novel attack that allows adversaries to maintain the revoked malicious domain continuously resolvable at scale, which enables an old, mitigated attack, Ghost Domain. Phoenix Domain has two variations and affects all mainstream DNS software and public DNS resolvers overall because it does not violate any DNS specifications and best security practices. The attack is made possible through systematically “reverse engineer” the cache operations of 8 DNS implementations, and new attack surfaces are revealed in the domain name delegation processes. We select 41 well-known public DNS resolvers and prove that all surveyed DNS services are vulnerable to Phoenix Domain, including Google Public DNS and Cloudflare DNS. Extensive measurement studies are performed with 210k stable and distributed DNS recursive resolvers, and results show that even after one month from domain name revocation and cache expiration, more than 25% of recursive resolvers can still resolve it. The proposed attack provides an opportunity for adversaries to evade the security practices of malicious domain take-down. We have reported discovered vulnerabilities to all affected vendors and suggested 6 types of mitigation approaches to them. Until now, 7 DNS software providers and 15 resolver vendors, including BIND, Unbound, Google, and Cloudflare, have confirmed the vulnerabilities, and some of them are implementing and publishing mitigation patches according to our suggestions. In addition, 9 CVE numbers have been assigned. The study calls for standardization to address the issue of how to revoke domain names securely and maintain cache consistency."
+  "description": "Federated learning (FL) systems are vulnerable to malicious clients that submit poisoned local models to achieve their adversarial goals, such as preventing the convergence of the global model or inducing the global model to misclassify some data. Many existing defense mechanisms are impractical in real-world FL systems, as they require prior knowledge of the number of malicious clients or rely on re-weighting or modifying submissions. This is because adversaries typically do not announce their intentions before attacking, and re-weighting might change aggregation results even in the absence of attacks. To address these challenges in real FL systems, this paper introduces a cutting-edge anomaly detection approach with the following features: i) Detecting the occurrence of attacks and performing defense operations only when attacks happen; ii) Upon the occurrence of an attack, further detecting the malicious client models and eliminating them without harming the benign ones; iii) Ensuring honest execution of defense mechanisms at the server by leveraging a zero-knowledge proof mechanism. We validate the superior performance of the proposed approach with extensive experiments. "
 }
 </script>
 
@@ -397,7 +397,7 @@
 
 
   
-  <title>Ghost Domain Reloaded: Vulnerable Links in Domain Name Delegation and Revocation | Qifan Zhang | 张起帆</title>
+  <title>Kick Bad Guys Out! Zero-Knowledge-Proof-Based Anomaly Detection in Federated Learning | Qifan Zhang | 张起帆</title>
 
   
   
@@ -417,7 +417,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="e3e7c398bb39c553ed8d7293595dcb6e" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="e6abd4bab87a27a0289070c7278f7e25" >
 
   
   
@@ -878,7 +878,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>Ghost Domain Reloaded: Vulnerable Links in Domain Name Delegation and Revocation</h1>
+  <h1>Kick Bad Guys Out! Zero-Knowledge-Proof-Based Anomaly Detection in Federated Learning</h1>
 
   
 
@@ -895,14 +895,14 @@
     
 
   <span >
-      Xiang Li</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
-      Baojun Liu</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
-      Xuesong Bai</span>, <span >
-      Mingming Zhang</span>, <span class="author-highlighted">
+      Shanshan Han</span>, <span >
+      Wenxuan Wu</span>, <span >
+      Baturalp Buyukates</span>, <span >
+      Weizhao Jin</span>, <span >
+      Yuhang Yao</span>, <span class="author-highlighted">
       Qifan Zhang</span>, <span >
-      Zhou Li</span>, <span >
-      Haixin Duan</span>, <span >
-      Qi Li</span>
+      Salman Avestimehr</span>, <span >
+      Chaoyang He</span>
   </div>
   
   
@@ -913,7 +913,7 @@
     
       
     
-    February, 2023
+    September, 2023
   </span>
   
 
@@ -953,14 +953,14 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="/papers/ndss23_li.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/pdf/2306.04959" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
-        data-filename="/publication/ndss23/cite.bib">
+        data-filename="/publication/anomaly_detection/cite.bib">
   Cite
 </a>
 
@@ -968,27 +968,15 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="https://phoenixdomain.net/" target="_blank" rel="noopener">
-  Project
-</a>
 
 
 
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="https://lixiang521.com/publication/ndss23/ndss23-li-phoenix-slides.pdf" target="_blank" rel="noopener">
-  Slides
-</a>
 
 
 
-
-
-<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/https://doi.org/10.14722/ndss.2023.23005" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/https://doi.org/10.48550/arXiv.2310.04055" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1000,9 +988,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 266px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 235px;">
   <div style="position: relative">
-    <img src="/publication/ndss23/featured_hu3769e67fb1dcdd56c5f622e09678999e_113202_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="266" alt="" class="featured-image">
+    <img src="/publication/anomaly_detection/featured_hudd6e969d574e9ecac4cceaec16a1efc8_90997_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="235" alt="" class="featured-image">
     
   </div>
 </div>
@@ -1013,7 +1001,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">In this paper, we propose <strong>Phoenix Domain</strong>, a general and novel attack that allows adversaries to maintain the revoked malicious domain continuously resolvable at scale, which enables an old, mitigated attack, Ghost Domain. Phoenix Domain has two variations and affects all mainstream DNS software and public DNS resolvers overall because it does not violate any DNS specifications and best security practices. The attack is made possible through systematically “reverse engineer” the cache operations of 8 DNS implementations, and new attack surfaces are revealed in the domain name delegation processes. We select 41 well-known public DNS resolvers and prove that all surveyed DNS services are vulnerable to Phoenix Domain, including Google Public DNS and Cloudflare DNS. Extensive measurement studies are performed with 210k stable and distributed DNS recursive resolvers, and results show that even after one month from domain name revocation and cache expiration, more than 25% of recursive resolvers can still resolve it. The proposed attack provides an opportunity for adversaries to evade the security practices of malicious domain take-down. We have reported discovered vulnerabilities to all affected vendors and suggested 6 types of mitigation approaches to them. Until now, 7 DNS software providers and 15 resolver vendors, including BIND, Unbound, Google, and Cloudflare, have confirmed the vulnerabilities, and some of them are implementing and publishing mitigation patches according to our suggestions. In addition, 9 CVE numbers have been assigned. The study calls for standardization to address the issue of how to revoke domain names securely and maintain cache consistency.</p>
+    <p class="pub-abstract">Federated learning (FL) systems are vulnerable to malicious clients that submit poisoned local models to achieve their adversarial goals, such as preventing the convergence of the global model or inducing the global model to misclassify some data. Many existing defense mechanisms are impractical in real-world FL systems, as they require prior knowledge of the number of malicious clients or rely on re-weighting or modifying submissions. This is because adversaries typically do not announce their intentions before attacking, and re-weighting might change aggregation results even in the absence of attacks. To address these challenges in real FL systems, this paper introduces a cutting-edge anomaly detection approach with the following features: i) Detecting the occurrence of attacks and performing defense operations only when attacks happen; ii) Upon the occurrence of an attack, further detecting the malicious client models and eliminating them without harming the benign ones; iii) Ensuring honest execution of defense mechanisms at the server by leveraging a zero-knowledge proof mechanism. We validate the superior performance of the proposed approach with extensive experiments.</p>
     
 
     
@@ -1024,8 +1012,8 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
-            <a href="/publication/#1">
-              Conference paper
+            <a href="/publication/#3">
+              Preprint
             </a>
           </div>
         </div>
@@ -1041,9 +1029,8 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In <em><a href="https://www.ndss-symposium.org/ndss2023/" target="_blank" rel="noopener">Proceedings of the 30th Annual Network and Distributed System Security Symposium</a></em>. <br>
-San Diego, CA, USA. Feb 27 - Mar 3, 2023. <br>
-(Acceptance rate: 17.4%)</div>
+          <div class="col-12 col-md-9">Under submission of <em><a href="https://iclr.cc/" target="_blank" rel="noopener">Twelfth International Conference on Learning Representations</a></em>. <br>
+(Acceptance rate: ??.?%)</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -1053,18 +1040,7 @@ San Diego, CA, USA. Feb 27 - Mar 3, 2023. <br>
 
     <div class="space-below"></div>
 
-    <div class="article-style"><h2>Overview</h2>
-In this paper, we propose <b>Phoenix Domain</b>, a general and novel attack that allows adversaries to maintain the revoked malicious domain continuously resolvable at scale, which enables an old, mitigated attack, Ghost Domain. 
-<br></br>
-Phoenix Domain: <a href="https://phoenixdomain.net/">https://phoenixdomain.net/</a>
-<h2>CVEs (9 in total)</h2>
-<li>Knot Resolver: <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30250">CVE-2022-30250</a>, <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30251">CVE-2022-30251</a></li>
-<li>PowerDNS Recursor: <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30252">CVE-2022-30252</a></li>
-<li>Simple DNS Plus: <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30254">CVE-2022-30254</a></li>
-<li>MaraDNS: <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30256">CVE-2022-30256</a></li>
-<li>Technitium: <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30257">CVE-2022-30257</a>, <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30258">CVE-2022-30258</a></li>
-<li>Unbound: <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30698">CVE-2022-30698</a>, <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30699">CVE-2022-30699</a></li>
-<!-- 
+    <div class="article-style"><!-- 
 
 <div class="alert alert-note">
   <div>
@@ -1093,7 +1069,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tag/dns/">DNS</a>
+  <a class="badge badge-light" href="/tag/fl/">FL</a>
+  
+  <a class="badge badge-light" href="/tag/llm/">LLM</a>
   
 </div>
 
@@ -1114,7 +1092,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fqifan-sailboat.github.io%2Fpublication%2Fndss23%2F&amp;text=Ghost&#43;Domain&#43;Reloaded%3A&#43;Vulnerable&#43;Links&#43;in&#43;Domain&#43;Name&#43;Delegation&#43;and&#43;Revocation" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fqifan-sailboat.github.io%2Fpublication%2Fanomaly_detection%2F&amp;text=Kick&#43;Bad&#43;Guys&#43;Out%21&#43;Zero-Knowledge-Proof-Based&#43;Anomaly&#43;Detection&#43;in&#43;Federated&#43;Learning" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1131,7 +1109,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fqifan-sailboat.github.io%2Fpublication%2Fndss23%2F&amp;t=Ghost&#43;Domain&#43;Reloaded%3A&#43;Vulnerable&#43;Links&#43;in&#43;Domain&#43;Name&#43;Delegation&#43;and&#43;Revocation" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fqifan-sailboat.github.io%2Fpublication%2Fanomaly_detection%2F&amp;t=Kick&#43;Bad&#43;Guys&#43;Out%21&#43;Zero-Knowledge-Proof-Based&#43;Anomaly&#43;Detection&#43;in&#43;Federated&#43;Learning" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1150,7 +1128,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
         
       
       <li>
-        <a href="mailto:?subject=Ghost%20Domain%20Reloaded%3A%20Vulnerable%20Links%20in%20Domain%20Name%20Delegation%20and%20Revocation&amp;body=https%3A%2F%2Fqifan-sailboat.github.io%2Fpublication%2Fndss23%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Kick%20Bad%20Guys%20Out%21%20Zero-Knowledge-Proof-Based%20Anomaly%20Detection%20in%20Federated%20Learning&amp;body=https%3A%2F%2Fqifan-sailboat.github.io%2Fpublication%2Fanomaly_detection%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1167,7 +1145,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fqifan-sailboat.github.io%2Fpublication%2Fndss23%2F&amp;title=Ghost&#43;Domain&#43;Reloaded%3A&#43;Vulnerable&#43;Links&#43;in&#43;Domain&#43;Name&#43;Delegation&#43;and&#43;Revocation" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fqifan-sailboat.github.io%2Fpublication%2Fanomaly_detection%2F&amp;title=Kick&#43;Bad&#43;Guys&#43;Out%21&#43;Zero-Knowledge-Proof-Based&#43;Anomaly&#43;Detection&#43;in&#43;Federated&#43;Learning" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1184,7 +1162,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
       
       
       <li>
-        <a href="whatsapp://send?text=Ghost&#43;Domain&#43;Reloaded%3A&#43;Vulnerable&#43;Links&#43;in&#43;Domain&#43;Name&#43;Delegation&#43;and&#43;Revocation%20https%3A%2F%2Fqifan-sailboat.github.io%2Fpublication%2Fndss23%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Kick&#43;Bad&#43;Guys&#43;Out%21&#43;Zero-Knowledge-Proof-Based&#43;Anomaly&#43;Detection&#43;in&#43;Federated&#43;Learning%20https%3A%2F%2Fqifan-sailboat.github.io%2Fpublication%2Fanomaly_detection%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1201,7 +1179,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fqifan-sailboat.github.io%2Fpublication%2Fndss23%2F&amp;title=Ghost&#43;Domain&#43;Reloaded%3A&#43;Vulnerable&#43;Links&#43;in&#43;Domain&#43;Name&#43;Delegation&#43;and&#43;Revocation" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fqifan-sailboat.github.io%2Fpublication%2Fanomaly_detection%2F&amp;title=Kick&#43;Bad&#43;Guys&#43;Out%21&#43;Zero-Knowledge-Proof-Based&#43;Anomaly&#43;Detection&#43;in&#43;Federated&#43;Learning" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1220,6 +1198,12 @@ Supplementary notes can be added here, including [code, math, and images](https:
 
 
   
+  
+    
+
+
+
+
   
     
 
@@ -1358,12 +1342,6 @@ His <a href="resume/resume_full_QifanZhang_102323.pdf">Curriculum Vitae</a> (las
 
     </div>
   </div>
-
-
-  
-    
-
-
 
 
   
