@@ -42,20 +42,12 @@
     <lastmod>2024-02-09T11:10:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://qifan-sailboat.github.io/publication-type/3/</loc>
-    <lastmod>2024-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://qifan-sailboat.github.io/tag/llm/</loc>
-    <lastmod>2024-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://qifan-sailboat.github.io/publication/llm-multi-agent/</loc>
-    <lastmod>2024-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://qifan-sailboat.github.io/talk/invited-talk/</loc>
     <lastmod>2023-10-23T11:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://qifan-sailboat.github.io/publication-type/3/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://qifan-sailboat.github.io/tag/fl/</loc>
@@ -63,6 +55,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://qifan-sailboat.github.io/publication/anomaly_detection/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://qifan-sailboat.github.io/tag/llm/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
