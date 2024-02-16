@@ -51,6 +51,33 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
+      <title>LLM Multi-Agent Systems: Challenges and Open Problems</title>
+      <link>https://qifan-sailboat.github.io/publication/llm-multi-agent/</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://qifan-sailboat.github.io/publication/llm-multi-agent/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kick Bad Guys Out! Zero-Knowledge-Proof-Based Anomaly Detection in Federated Learning</title>
       <link>https://qifan-sailboat.github.io/publication/anomaly_detection/</link>
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>

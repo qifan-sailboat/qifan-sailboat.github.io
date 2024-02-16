@@ -5,12 +5,36 @@
     <link>https://qifan-sailboat.github.io/tag/presentation/</link>
       <atom:link href="https://qifan-sailboat.github.io/tag/presentation/index.xml" rel="self" type="application/rss+xml" />
     <description>Presentation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Oct 2023 11:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 Feb 2024 11:10:00 +0000</lastBuildDate>
     <image>
       <url>https://qifan-sailboat.github.io/media/icon_hu06c5472d9236cf129c82728409dffb3a_98811_512x512_fill_lanczos_center_3.png</url>
       <title>Presentation</title>
       <link>https://qifan-sailboat.github.io/tag/presentation/</link>
     </image>
+    
+    <item>
+      <title>DNS-OARC&#39;42</title>
+      <link>https://qifan-sailboat.github.io/talk/dns-oarc42/</link>
+      <pubDate>Fri, 09 Feb 2024 11:10:00 +0000</pubDate>
+      <guid>https://qifan-sailboat.github.io/talk/dns-oarc42/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
     
     <item>
       <title>Invited Talk</title>
