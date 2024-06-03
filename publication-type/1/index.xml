@@ -5,12 +5,39 @@
     <link>https://qifan-sailboat.github.io/publication-type/1/</link>
       <atom:link href="https://qifan-sailboat.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://qifan-sailboat.github.io/media/icon_hu06c5472d9236cf129c82728409dffb3a_98811_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://qifan-sailboat.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>FedSecurity: A Benchmark for Attacks and Defenses in Federated Learning and Federated LLMs</title>
+      <link>https://qifan-sailboat.github.io/publication/fedsecurity/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://qifan-sailboat.github.io/publication/fedsecurity/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>ResolverFuzz: Automated Discovery of DNS Resolver Vulnerabilities with Query-Response Fuzzing</title>

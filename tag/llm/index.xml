@@ -5,7 +5,7 @@
     <link>https://qifan-sailboat.github.io/tag/llm/</link>
       <atom:link href="https://qifan-sailboat.github.io/tag/llm/index.xml" rel="self" type="application/rss+xml" />
     <description>LLM</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://qifan-sailboat.github.io/media/icon_hu06c5472d9236cf129c82728409dffb3a_98811_512x512_fill_lanczos_center_3.png</url>
       <title>LLM</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Kick Bad Guys Out! Zero-Knowledge-Proof-Based Anomaly Detection in Federated Learning</title>
-      <link>https://qifan-sailboat.github.io/publication/anomaly_detection/</link>
-      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://qifan-sailboat.github.io/publication/anomaly_detection/</guid>
+      <title>FedSecurity: A Benchmark for Attacks and Defenses in Federated Learning and Federated LLMs</title>
+      <link>https://qifan-sailboat.github.io/publication/fedsecurity/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://qifan-sailboat.github.io/publication/fedsecurity/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -40,10 +40,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>FedMLSecurity: A Benchmark for Attacks and Defenses in Federated Learning and Federated LLMs</title>
-      <link>https://qifan-sailboat.github.io/publication/fedmlsecurity/</link>
-      <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://qifan-sailboat.github.io/publication/fedmlsecurity/</guid>
+      <title>Kick Bad Guys Out! Zero-Knowledge-Proof-Based Anomaly Detection in Federated Learning</title>
+      <link>https://qifan-sailboat.github.io/publication/anomaly_detection/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://qifan-sailboat.github.io/publication/anomaly_detection/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
