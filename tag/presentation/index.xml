@@ -1,136 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Presentation | Qifan Zhang | 张起帆</title>
-    <link>https://qifan-sailboat.github.io/tag/presentation/</link>
-      <atom:link href="https://qifan-sailboat.github.io/tag/presentation/index.xml" rel="self" type="application/rss+xml" />
-    <description>Presentation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Aug 2024 16:30:00 +0000</lastBuildDate>
-    <image>
-      <url>https://qifan-sailboat.github.io/media/icon_hu06c5472d9236cf129c82728409dffb3a_98811_512x512_fill_lanczos_center_3.png</url>
-      <title>Presentation</title>
-      <link>https://qifan-sailboat.github.io/tag/presentation/</link>
-    </image>
-    
-    <item>
-      <title>USENIX Security 2024</title>
-      <link>https://qifan-sailboat.github.io/talk/usenix-security-2024/</link>
-      <pubDate>Thu, 15 Aug 2024 16:30:00 +0000</pubDate>
-      <guid>https://qifan-sailboat.github.io/talk/usenix-security-2024/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Presentation | Qifan Zhang | 张起帆</title><link>https://qifan-sailboat.github.io/tag/presentation/</link><atom:link href="https://qifan-sailboat.github.io/tag/presentation/index.xml" rel="self" type="application/rss+xml"/><description>Presentation</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Aug 2024 16:30:00 +0000</lastBuildDate><image><url>https://qifan-sailboat.github.io/media/icon_hu06c5472d9236cf129c82728409dffb3a_98811_512x512_fill_lanczos_center_3.png</url><title>Presentation</title><link>https://qifan-sailboat.github.io/tag/presentation/</link></image><item><title>USENIX Security 2024</title><link>https://qifan-sailboat.github.io/talk/usenix-security-2024/</link><pubDate>Thu, 15 Aug 2024 16:30:00 +0000</pubDate><guid>https://qifan-sailboat.github.io/talk/usenix-security-2024/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
 Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>NDSS 2024</title>
-      <link>https://qifan-sailboat.github.io/talk/ndss-2024/</link>
-      <pubDate>Tue, 27 Feb 2024 17:00:00 +0000</pubDate>
-      <guid>https://qifan-sailboat.github.io/talk/ndss-2024/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item><item><title>NDSS 2024</title><link>https://qifan-sailboat.github.io/talk/ndss-2024/</link><pubDate>Tue, 27 Feb 2024 17:00:00 +0000</pubDate><guid>https://qifan-sailboat.github.io/talk/ndss-2024/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
 Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>DNS-OARC&#39;42</title>
-      <link>https://qifan-sailboat.github.io/talk/dns-oarc42/</link>
-      <pubDate>Fri, 09 Feb 2024 11:10:00 +0000</pubDate>
-      <guid>https://qifan-sailboat.github.io/talk/dns-oarc42/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item><item><title>DNS-OARC'42</title><link>https://qifan-sailboat.github.io/talk/dns-oarc42/</link><pubDate>Fri, 09 Feb 2024 11:10:00 +0000</pubDate><guid>https://qifan-sailboat.github.io/talk/dns-oarc42/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
 Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Invited Talk</title>
-      <link>https://qifan-sailboat.github.io/talk/invited-talk/</link>
-      <pubDate>Mon, 23 Oct 2023 11:00:00 +0000</pubDate>
-      <guid>https://qifan-sailboat.github.io/talk/invited-talk/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item><item><title>Invited Talk</title><link>https://qifan-sailboat.github.io/talk/invited-talk/</link><pubDate>Mon, 23 Oct 2023 11:00:00 +0000</pubDate><guid>https://qifan-sailboat.github.io/talk/invited-talk/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
 Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The 38th Annual Computer Security Applications Conference | ACSAC &#39;22</title>
-      <link>https://qifan-sailboat.github.io/talk/the-38th-annual-computer-security-applications-conference-acsac-22/</link>
-      <pubDate>Mon, 05 Dec 2022 11:00:00 +0000</pubDate>
-      <guid>https://qifan-sailboat.github.io/talk/the-38th-annual-computer-security-applications-conference-acsac-22/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item><item><title>The 38th Annual Computer Security Applications Conference | ACSAC '22</title><link>https://qifan-sailboat.github.io/talk/the-38th-annual-computer-security-applications-conference-acsac-22/</link><pubDate>Mon, 05 Dec 2022 11:00:00 +0000</pubDate><guid>https://qifan-sailboat.github.io/talk/the-38th-annual-computer-security-applications-conference-acsac-22/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
 Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item></channel></rss>
