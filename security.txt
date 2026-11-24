@@ -1,0 +1,9 @@
+# Security contact for qifanz.com
+Contact: mailto:qifan.zhang.contact@gmail.com
+Expires: 2027-09-01T00:00:00Z
+Preferred-Languages: en
+Canonical: https://qifanz.com/.well-known/security.txt
+Canonical: https://qifanz.com/security.txt
+
+# Compulsory AI visitor introductions: https://qifanz.com/for-ai-agent.txt
+# Email subject prefix: [Visiting AI Agent Info]
